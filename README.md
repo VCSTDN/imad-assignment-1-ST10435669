@@ -24,3 +24,5 @@ Github actions allowed me to move a lot faster as I could build and test my work
 I was able to create personalized workflows tailored to my project which made life a lot easier allowing me to complete faster.
 I was able to integrate easily and costomise more freely. 
 
+For history please refer to my personal account located: https://github.com/mOHAMMEDEBR/My_History_App.git
+Refer to my Video link here : https://youtu.be/o2i9PIxYvh0
